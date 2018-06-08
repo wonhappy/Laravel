@@ -8,6 +8,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "wonhappy/Laravel": "1.0.*"
+        "wonhappy/Laravel": "dev-master"
     }
 }
